@@ -1,0 +1,34 @@
+# Audio files
+salami_audio/
+*.wav
+*.mp3
+*.webm
+
+# Cached features
+feature_cache/
+*.npy
+
+# Trained models
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Downloaded separately
+salami-data-public/
+matching-salami/
+SpecTNT-pytorch/
